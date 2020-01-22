@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_module">
+    <sys_aw_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <content display_value="Inbox Module Content">a6851041dba2001068e529e1ca96192c</content>
+        <content_attrs/>
+        <content_component display_value="sn-inbox">c1fbc4bb77b31300c438c277d8106134</content_component>
+        <content_tag/>
+        <detail display_value="Inbox Module Detail">62851041dba2001068e529e1ca961931</detail>
+        <detail_attrs/>
+        <detail_component display_value="sn-inbox-empty">ee222d2bff222300294153bd6338f113</detail_component>
+        <detail_tag/>
+        <hide_until_ready>false</hide_until_ready>
+        <icon>inbox-outline</icon>
+        <id>inbox</id>
+        <label>Inbox</label>
+        <order>200</order>
+        <roles/>
+        <sys_class_name>sys_aw_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-22 21:43:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>66851041dba2001068e529e1ca961925</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>inbox</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Ben Test Git" source="x_399584_ben_test">ff649ccddb62001068e529e1ca96199f</sys_package>
+        <sys_policy/>
+        <sys_props/>
+        <sys_scope display_value="Ben Test Git">ff649ccddb62001068e529e1ca96199f</sys_scope>
+        <sys_update_name>sys_aw_module_66851041dba2001068e529e1ca961925</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-22 21:43:28</sys_updated_on>
+        <toolbar_button display_value="Inbox Button">aa851041dba2001068e529e1ca961925</toolbar_button>
+        <type>master_detail</type>
+        <workspace_config display_value="Ben Test Git">c2859c01dba2001068e529e1ca961991</workspace_config>
+    </sys_aw_module>
+    <sys_variable_value action="delete_multiple" query="document_key=66851041dba2001068e529e1ca961925"/>
+</record_update>
